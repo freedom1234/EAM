@@ -1,0 +1,15 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+target
+/target
+/.idea
+/.idea/workspace.xml
+jeesite.iml
+/src/main/resources/config/jdbc.properties
+/src/main/resources/META-INF/persistence.xml
+/src/main/resources/config/jdbc.properties
+/.idea
